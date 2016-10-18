@@ -16,7 +16,7 @@ server.listen(process.env.port || process.env.PORT || 3978, function () {
   
 // Create chat bot
 // MICROSOFT_APP_ID and MICROSOFT_APP_PASSWORD are created when you register a bot at https://dev.botframework.com/bots 
-// I will walk through how to add them as a process.env variables in a next step.
+// Details in the tutorial link in README
 var connector = new builder.ChatConnector({
     appId: process.env.MICROSOFT_APP_ID,
     appPassword: process.env.MICROSOFT_APP_PASSWORD
