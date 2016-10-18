@@ -1,4 +1,4 @@
-# TestBot
+# Example Bot for using Microsoft Bot Framework
 http://www.damkee.com/experimentlearnings/2016/10/16/creating-a-bot-microsoft-botframework-1
 
 Template and tutorial to setup a bot using Microsoft Bot Framework.
